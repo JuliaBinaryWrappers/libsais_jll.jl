@@ -1,0 +1,14 @@
+name = "libsais_jll"
+uuid = "256fa0d9-5b69-5eda-b2e7-67f42de8f23f"
+version = "2.7.3+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"

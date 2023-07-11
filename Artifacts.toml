@@ -1,0 +1,143 @@
+[[libsais]]
+arch = "aarch64"
+git-tree-sha1 = "c9f0c0b45abd37c02e20fd38ed3b14b484dbf771"
+os = "macos"
+
+    [[libsais.download]]
+    sha256 = "292cda9d64ddf091cea80606572c0efcdbc5e1e4cc61f3991cd15fc70f1eb94f"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.aarch64-apple-darwin.tar.gz"
+[[libsais]]
+arch = "aarch64"
+git-tree-sha1 = "99795fc8eb30792162fd50c855bae3c0272f5fdb"
+libc = "glibc"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "8e69db8d8b57565ec7ff86de66605bb0ea02fc93e9b6a01df95c06614469ef72"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.aarch64-linux-gnu.tar.gz"
+[[libsais]]
+arch = "aarch64"
+git-tree-sha1 = "01a0c1dea575321cbe81a2fd4f30b83080d0eb5e"
+libc = "musl"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "8cb851271265a8e903cb3074e8f56e9507c1ad216262eb9e6b62933112475757"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.aarch64-linux-musl.tar.gz"
+[[libsais]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c2854923738a5fee495a4c5800fd9682ca5b1d87"
+libc = "glibc"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "24e35413419efbef6d1435d395a70e86bcaa4d2b10b81ae60c18e58227466887"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.armv6l-linux-gnueabihf.tar.gz"
+[[libsais]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "572d302f037e5c0dbc32cd2aceb86dcaeaba7ba9"
+libc = "musl"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "1bfbf5fff221a070deb346d824129fa4be7876788d830b63cba804e9353570a1"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.armv6l-linux-musleabihf.tar.gz"
+[[libsais]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "48fbb462542173fe5f651ac826893be59f4bcdb1"
+libc = "glibc"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "a8f340f6fd116b712ca476b598814f41c2e3bfeb5ccc223140751a601580717b"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.armv7l-linux-gnueabihf.tar.gz"
+[[libsais]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a1130c75203a255a2131cb910845f26b0abab22f"
+libc = "musl"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "fe946e3ef01edab91b043caf0af35e5b87a942abba36dabf4cea14ec5a6c2ea6"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.armv7l-linux-musleabihf.tar.gz"
+[[libsais]]
+arch = "i686"
+git-tree-sha1 = "f33b783aeb3f43d633f84fc532f33f63fb7a1825"
+libc = "glibc"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "9f042242319b952174dd49732752388f9ccda7de480c11a79f96abb0ce9702b1"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.i686-linux-gnu.tar.gz"
+[[libsais]]
+arch = "i686"
+git-tree-sha1 = "90bd639bcefa10ee6984c771269c3eb10cd8155e"
+libc = "musl"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "92aff72b03616cce1d1ea008003a5270acd89930228aab23932a216efe78a835"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.i686-linux-musl.tar.gz"
+[[libsais]]
+arch = "i686"
+git-tree-sha1 = "3e68e1ce02a35a2d0c74811ce578cc4eae01b2e0"
+os = "windows"
+
+    [[libsais.download]]
+    sha256 = "ec6a8030c66c52e3c850bec2b4932e87f8d0c6d3235b49914d3a9d8b163a5107"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.i686-w64-mingw32.tar.gz"
+[[libsais]]
+arch = "powerpc64le"
+git-tree-sha1 = "f1dc8ac9384942f272d35268711dcabb78f91f4c"
+libc = "glibc"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "e0782ba002a0ab683611690558a1580d0e5b7857348d827dbc19ccf1acca58f2"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.powerpc64le-linux-gnu.tar.gz"
+[[libsais]]
+arch = "x86_64"
+git-tree-sha1 = "48fc32ea92d7f05a551cd9e0c7e58c12ba4aa80f"
+os = "macos"
+
+    [[libsais.download]]
+    sha256 = "2c3671c43c7361e3e00d40a88a8454ab49ab838bbe78c1c13564f86c4d195697"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.x86_64-apple-darwin.tar.gz"
+[[libsais]]
+arch = "x86_64"
+git-tree-sha1 = "427bcb3a5a5a66f66f6cb3c5377cfd87b08e08e0"
+libc = "glibc"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "5080f1102a77524ec619bc92466fababc2988e46dd7d07a026dc0eb7359f4fe4"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.x86_64-linux-gnu.tar.gz"
+[[libsais]]
+arch = "x86_64"
+git-tree-sha1 = "fac7bc96d888b589f2bbfcb53faa8a24d42b686e"
+libc = "musl"
+os = "linux"
+
+    [[libsais.download]]
+    sha256 = "7bb4ac590215e2dbaf93b4d9fad7b29b4137b1b817bdcfdd2f92036f1b11ff59"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.x86_64-linux-musl.tar.gz"
+[[libsais]]
+arch = "x86_64"
+git-tree-sha1 = "c9929b4e094e6a17ef252923583384f95851f7b8"
+os = "freebsd"
+
+    [[libsais.download]]
+    sha256 = "361fde7bdcc76f75a1038130995eefdf03620f8522fc65d2e038fedb0b9d4729"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.x86_64-unknown-freebsd.tar.gz"
+[[libsais]]
+arch = "x86_64"
+git-tree-sha1 = "bca1a74a1e6845d587236cfc15ce43777173a2ba"
+os = "windows"
+
+    [[libsais.download]]
+    sha256 = "dea55ea4b6ab76a2b7f5267cd8c8d90e85bbd3a78938b394c06285dfedeedc6d"
+    url = "https://github.com/JuliaBinaryWrappers/libsais_jll.jl/releases/download/libsais-v2.7.3+0/libsais.v2.7.3.x86_64-w64-mingw32.tar.gz"
